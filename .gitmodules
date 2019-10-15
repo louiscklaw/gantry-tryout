@@ -1,0 +1,9 @@
+[submodule "ref/HacDCOptics"]
+	path = ref/HacDCOptics
+	url = git@github.com:HacDC/HacDCOptics.git
+[submodule "ref/TazStiff"]
+	path = ref/TazStiff
+	url = git@github.com:mirage335/TazStiff.git
+[submodule "ref/Engravinator"]
+	path = ref/Engravinator
+	url = git@github.com:ManiacalLabs/Engravinator.git
